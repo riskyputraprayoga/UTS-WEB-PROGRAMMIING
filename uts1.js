@@ -11,7 +11,7 @@ const btn = document.getElementById('box');
 
     let index = 0;
     
-    const colors = ['red', 'orange', 'yellow', 'green', 'blue', 'purple'];
+    const colors = ['red', 'orange', 'yellow', 'green', 'blue'];
     
     box.addEventListener('click', function onClick() {
     box.style.backgroundColor = colors[index];
