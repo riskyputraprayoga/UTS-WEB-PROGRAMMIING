@@ -1,8 +1,7 @@
 #box{
-    height: 100px;
     width: 100px;
+    height: 100px;
     position: fixed;
-    background-color: rgb(204, 16, 185);
-    border-color: black;
-    border: solid 2px black;
+    background-color: rgb(255, 0, 89);
+    border: solid 4px black;
 }
